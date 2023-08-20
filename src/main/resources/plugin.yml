@@ -1,0 +1,9 @@
+  name: WanderingGoods
+  main: dev.loudbook.wanderinggoods.WanderingGoods
+  api-version: '1.20'
+  version: 1.0
+  commands:
+    spawnInterval:
+      description: WanderingGoods set interval.
+      usage: /spawnInterval
+      permission: wanderinggoods.spawninterval
